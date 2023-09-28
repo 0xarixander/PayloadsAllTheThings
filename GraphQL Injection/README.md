@@ -47,7 +47,7 @@
 
 ### Common GraphQL endpoints
 
-Most of the time the graphql is located on the `/graphql` or `/graphiql` endpoint. 
+Most of the time the graphql is located on the `/graphql` or `/graphiql` endpoint.  
 A more complete list is available at [0xarixander/SecLists/graphql.txt](https://github.com/0xarixander/SecLists/blob/master/Discovery/Web-Content/graphql.txt).
 
 ```ps1
